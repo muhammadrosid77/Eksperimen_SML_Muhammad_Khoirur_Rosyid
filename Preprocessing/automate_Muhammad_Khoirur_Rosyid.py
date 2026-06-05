@@ -14,7 +14,7 @@ from sklearn.compose import ColumnTransformer
 # CONFIGURATION
 # ==========================================
 
-RAW_DATA_PATH = "../Dataset_row/ObesityDataSet.csv"
+RAW_DATA_PATH = "../Dataset_raw/ObesityDataSet.csv"
 
 OUTPUT_DIR = "ObesityDataSet_preprocessing"
 
