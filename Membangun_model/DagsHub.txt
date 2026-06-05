@@ -1,2 +1,0 @@
-DagsHub Repository : https://dagshub.com/muhammadrosid77/obesity_clasification
-MLflow Dashboard    : https://dagshub.com/muhammadrosid77/obesity_clasification.mlflow
